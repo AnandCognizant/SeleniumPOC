@@ -1,0 +1,8 @@
+c:\users\anand.nareshwar\documents\visual studio 2015\Projects\SeleniumIDEPOC\SeleniumIDEPOC\bin\Debug\SeleniumIDEPOC.dll
+c:\users\anand.nareshwar\documents\visual studio 2015\Projects\SeleniumIDEPOC\SeleniumIDEPOC\bin\Debug\SeleniumIDEPOC.pdb
+c:\users\anand.nareshwar\documents\visual studio 2015\Projects\SeleniumIDEPOC\SeleniumIDEPOC\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\anand.nareshwar\documents\visual studio 2015\Projects\SeleniumIDEPOC\SeleniumIDEPOC\bin\Debug\WebDriver.dll
+c:\users\anand.nareshwar\documents\visual studio 2015\Projects\SeleniumIDEPOC\SeleniumIDEPOC\bin\Debug\WebDriver.xml
+c:\users\anand.nareshwar\documents\visual studio 2015\Projects\SeleniumIDEPOC\SeleniumIDEPOC\obj\Debug\SeleniumIDEPOC.csprojResolveAssemblyReference.cache
+c:\users\anand.nareshwar\documents\visual studio 2015\Projects\SeleniumIDEPOC\SeleniumIDEPOC\obj\Debug\SeleniumIDEPOC.dll
+c:\users\anand.nareshwar\documents\visual studio 2015\Projects\SeleniumIDEPOC\SeleniumIDEPOC\obj\Debug\SeleniumIDEPOC.pdb
